@@ -11,6 +11,7 @@ const data: Record<TProductId, TProduct> = {
       shape: 'Oval',
       hardiness: '1 °C',
       taste: 'Catchy, is an avocado',
+      color: '#412F39'
     },
   },
   '6trfgkkj': {
@@ -25,6 +26,7 @@ const data: Record<TProductId, TProduct> = {
       shape: 'Pear',
       hardiness: '-1 °C',
       taste: 'Magnificent, is a strong avocado',
+      color: '#CB9C69'
     },
   },
   '7bcr49em': {
@@ -39,6 +41,7 @@ const data: Record<TProductId, TProduct> = {
       shape: 'Plump',
       hardiness: '−1 °C',
       taste: 'Superb, is an avocado',
+      color: '#FFD7AB'
     },
   },
   '098323ks': {
@@ -53,6 +56,7 @@ const data: Record<TProductId, TProduct> = {
       shape: 'Oval',
       hardiness: '−5 °C',
       taste: 'Creamy, is an avocado',
+      color: '#CD966C'
     },
   },
   b8uthe2y: {
@@ -67,6 +71,7 @@ const data: Record<TProductId, TProduct> = {
       shape: 'Oval',
       hardiness: '−1 °C',
       taste: 'Gorgeous, is an avocado',
+      color: '#713112'
     },
   },
   ewxsd6xb: {
@@ -81,6 +86,7 @@ const data: Record<TProductId, TProduct> = {
       shape: 'Obovate',
       hardiness: '-2 °C',
       taste: 'Great, is an avocado',
+      color: '#B4764F'
     },
   },
   fpr72m9k: {
@@ -95,6 +101,7 @@ const data: Record<TProductId, TProduct> = {
       shape: 'Long pear',
       hardiness: '−1 °C',
       taste: 'Marvelous, is an avocado',
+      color: '#9A650D'
     },
   },
   t9dv25gs: {
@@ -109,6 +116,7 @@ const data: Record<TProductId, TProduct> = {
       shape: 'Round',
       hardiness: '−1 °C',
       taste: 'Exquisite, is an avocado',
+      color: '#A35127'
     },
   },
   t345w48y: {
@@ -123,6 +131,7 @@ const data: Record<TProductId, TProduct> = {
       shape: 'Pear',
       hardiness: '-5 °C',
       taste: 'Splendid, is an avocado',
+      color: '#3D1C0A'
     },
   },
 }

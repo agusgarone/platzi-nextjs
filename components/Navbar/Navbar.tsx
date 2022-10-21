@@ -6,6 +6,7 @@ import { Menu, Container } from 'semantic-ui-react'
 import { Avocado } from '@components/SVGIcons'
 import ShoppingCartIcon from './ShoppingCartIcon'
 import { useCart } from '@store/Cart'
+import iconCafe from '../../public/images/capCafe.jpg'
 
 const Navbar = () => {
   const { pathname } = useRouter()
@@ -19,8 +20,8 @@ const Navbar = () => {
             active={pathname === '/'}
             title="Inicio | Todos los productos"
           >
-            <Avocado />
-            Avo Store
+            <img src={'/images/capCafe.jpg'} alt="icono" />
+            {' '}CAP Cafe
           </Menu.Item>
         </Link>
         <Menu.Menu position="right">

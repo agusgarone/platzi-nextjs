@@ -14,6 +14,7 @@ type TProductAttributes = {
   shape: string
   hardiness: string
   taste: string
+  color: string
 }
 
 type TProduct = {
